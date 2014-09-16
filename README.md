@@ -1,4 +1,4 @@
 Frranky
 =======
 
-Google Developer Group KyotoのAndroid Wear Hackathonでの作っていたアプリ
+Google Developer Group KyotoのAndroid Wear Hackathonでの作っていたアプリです。
